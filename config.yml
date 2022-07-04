@@ -1,0 +1,4 @@
+logs:
+  gitlab: '/var/log/gitlab.log'
+  openvpn: '/var/log/openvpn.log'
+
